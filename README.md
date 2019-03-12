@@ -18,7 +18,7 @@ The language mainly incorporated in this project is Javascript. However other la
 
 ## Link to live website
 
-https://iankurao.github.io/quiz_board/
+https://iankurao.github.io/meme-hub/
 
 
 ## Contact Information
